@@ -102,7 +102,7 @@ def test_sentiment_map():
     print("sentiment_map test passed!")
 ```
 
-#### Reusing `word_count_reduce` and confirming my results through 'test_sentiment'
+#### Reusing `word_count_reduce` and confirming my results through `test_sentiment`
 I am reusing the `word_count_reduce` function from Part 1 for reducing the sentiment counts and also confirming that my results work by running test_sentiment. Here’s how we can test the complete sentiment analysis:
 
 ```python
